@@ -1,0 +1,1 @@
+python3 main.py --xml Minifigures.xml --export prices.json
