@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """
-BrickLink Minifigure Collection Manager - XML Edition
-Simple command-line script to get prices for minifigures from BrickLink XML inventory.
+BrickLink Inventory Manager - XML Edition
+Simple command-line script to get prices for minifigures, parts, and sets from BrickLink XML inventory.
 
 Requirements:
 - BrickLink API credentials in .env file
 - pip install requests requests-oauthlib python-dotenv
 
 Usage:
-    python bricklink_xml_manager.py --xml minifigures.xml
-    python bricklink_xml_manager.py --xml minifigures.xml --prices-only
-    python bricklink_xml_manager.py --xml minifigures.xml --condition U
+    python main.py --xml Minifigures.xml
+    python main.py --xml Parts.xml
+    python main.py --xml Sets.xml
+    python main.py --xml Minifigures.xml --condition U --export prices --markup 15
 """
 
 import os
@@ -26,6 +27,19 @@ from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
+
+# Maps XML ITEMTYPE codes to BrickLink API type strings
+ITEM_TYPE_MAP = {
+    'M': 'MINIFIG',
+    'P': 'PART',
+    'S': 'SET',
+}
+
+ITEM_TYPE_LABELS = {
+    'M': 'minifigure',
+    'P': 'part',
+    'S': 'set',
+}
 
 
 class BricklinkAPI:
@@ -60,20 +74,21 @@ class BricklinkAPI:
             signature_method='HMAC-SHA1'
         )
     
-    def get_minifig_price(self, minifig_no: str, condition: str = 'N', debug: bool = False) -> Dict[str, Any]:
+    def get_item_price(self, item_id: str, item_type: str = 'MINIFIG', condition: str = 'N', debug: bool = False) -> Dict[str, Any]:
         """
-        Get price information for a specific minifigure.
-        
+        Get price information for a specific item (minifigure, part, or set).
+
         Args:
-            minifig_no: Minifigure number (e.g., 'sp006', 'sw0001')
+            item_id: Item number (e.g., 'sp006', '3001', '75192-1')
+            item_type: API item type string: 'MINIFIG', 'PART', or 'SET'
             condition: 'N' for new, 'U' for used
             debug: If True, print debug information
-        
+
         Returns:
             API response dictionary with price data
         """
         # IMPORTANT: Item type must be UPPERCASE
-        url = f"{self.base_url}/items/MINIFIG/{minifig_no}/price"
+        url = f"{self.base_url}/items/{item_type}/{item_id}/price"
         params = {
             'new_or_used': condition,
             'guide_type': 'stock',
@@ -103,7 +118,8 @@ class BricklinkAPI:
             if data.get('meta', {}).get('code') == 200:
                 return {
                     'success': True,
-                    'minifig': minifig_no,
+                    'itemid': item_id,
+                    'item_type': item_type,
                     'condition': condition,
                     'data': data.get('data', {})
                 }
@@ -111,14 +127,15 @@ class BricklinkAPI:
                 error_msg = data.get('meta', {}).get('message', 'Unknown error')
                 error_desc = data.get('meta', {}).get('description', '')
                 full_error = f"{error_msg}" + (f" - {error_desc}" if error_desc else "")
-                
+
                 return {
                     'success': False,
-                    'minifig': minifig_no,
+                    'itemid': item_id,
+                    'item_type': item_type,
                     'error': full_error,
                     'status_code': response.status_code
                 }
-                
+
         except Exception as e:
             error_msg = str(e)
             if hasattr(e, 'response') and e.response is not None:
@@ -129,13 +146,14 @@ class BricklinkAPI:
                         print(f"DEBUG: Exception Response: {error_data}")
                 except:
                     error_msg = f"HTTP {e.response.status_code}: {e.response.text}"
-            
+
             if debug:
                 print(f"DEBUG: Exception occurred: {type(e).__name__}: {e}")
-            
+
             return {
                 'success': False,
-                'minifig': minifig_no,
+                'itemid': item_id,
+                'item_type': item_type,
                 'error': error_msg,
                 'status_code': getattr(e.response, 'status_code', None) if hasattr(e, 'response') else None
             }
@@ -143,40 +161,40 @@ class BricklinkAPI:
 
 def parse_xml_inventory(xml_file: str) -> List[Dict[str, Any]]:
     """
-    Parse BrickLink XML inventory file and extract minifigure data.
-    
+    Parse BrickLink XML inventory file and extract item data.
+    Supports minifigures (M), parts (P), and sets (S).
+
     Args:
         xml_file: Path to the XML inventory file
-    
+
     Returns:
-        List of dictionaries containing minifigure information
+        List of dictionaries containing item information
     """
     try:
         tree = ET.parse(xml_file)
         root = tree.getroot()
-        
-        minifigs = []
+
+        items = []
         for item in root.findall('.//ITEM'):
             itemtype = item.find('ITEMTYPE')
             itemid = item.find('ITEMID')
             color = item.find('COLOR')
             qty = item.find('QTY')
             condition = item.find('CONDITION')
-            
-            # Only process minifigures (ITEMTYPE = 'M')
-            if (itemtype is not None and itemtype.text == 'M' and 
-                itemid is not None and itemid.text):
-                
-                minifig_data = {
+
+            if (itemtype is not None and itemtype.text in ITEM_TYPE_MAP and
+                    itemid is not None and itemid.text):
+
+                items.append({
                     'itemid': itemid.text,
+                    'itemtype': itemtype.text,
                     'color': color.text if color is not None else '0',
                     'quantity': int(qty.text) if qty is not None and qty.text.isdigit() else 1,
                     'condition': condition.text if condition is not None else 'U'
-                }
-                minifigs.append(minifig_data)
-        
-        return minifigs
-        
+                })
+
+        return items
+
     except ET.ParseError as e:
         print(f"Error parsing XML file: {e}")
         return []
@@ -217,39 +235,49 @@ def format_price_data(price_data: Dict[str, Any]) -> str:
     return " | ".join(lines) if lines else "No pricing information"
 
 
-def get_prices_for_inventory(api: 'BricklinkAPI', minifigs: List[Dict[str, Any]], 
-                           condition_filter: str = None, debug: bool = False) -> List[Dict[str, Any]]:
+def get_prices_for_inventory(api: 'BricklinkAPI', items: List[Dict[str, Any]],
+                             condition_filter: str = None, debug: bool = False) -> List[Dict[str, Any]]:
     """
-    Get prices for all minifigures in inventory.
+    Get prices for all items in inventory.
     """
     results = []
     processed_items = set()
-    
-    print(f"Getting prices for {len(minifigs)} minifigure entries...")
-    
-    for i, minifig in enumerate(minifigs, 1):
-        itemid = minifig['itemid']
-        condition = minifig['condition']
-        quantity = minifig['quantity']
-        
+
+    print(f"Getting prices for {len(items)} entries...")
+
+    for i, item in enumerate(items, 1):
+        itemid = item['itemid']
+        itemtype = item['itemtype']
+        condition = item['condition']
+        quantity = item['quantity']
+        api_type = ITEM_TYPE_MAP[itemtype]
+
         if condition_filter and condition != condition_filter:
             continue
-        
-        unique_key = f"{itemid}_{condition}"
+
+        unique_key = f"{itemid}_{itemtype}_{condition}"
         if unique_key in processed_items:
             continue
         processed_items.add(unique_key)
-        
-        print(f"[{i}/{len(minifigs)}] Getting price for {itemid} ({condition})...")
-        
-        # Enable debug for first item or if explicitly requested
-        result = api.get_minifig_price(itemid, condition, debug=(debug or i == 1))
+
+        print(f"[{i}/{len(items)}] Getting price for {itemid} ({api_type}, {condition})...")
+
+        result = api.get_item_price(itemid, api_type, condition, debug=(debug or i == 1))
         result['quantity'] = quantity
+
+        # If used price not found, try new price as fallback
+        if condition == 'U' and result['success'] and not result['data'].get('avg_price'):
+            print(f"  No used price found, checking new price...")
+            new_result = api.get_item_price(itemid, api_type, 'N', debug=debug)
+            if new_result['success'] and new_result['data'].get('avg_price'):
+                result['data'] = new_result['data']
+                print(f"  Using new price: ${new_result['data']['avg_price']}")
+
         results.append(result)
-        
+
         import time
         time.sleep(0.1)
-    
+
     return results
 
 
@@ -273,27 +301,27 @@ def print_price_summary(results: List[Dict[str, Any]]):
         print(f"{'-'*12} {'-'*4} {'-'*3} {'-'*50}")
         
         for result in successful:
-            itemid = result['minifig']
+            itemid = result['itemid']
             condition = result['condition']
             quantity = result.get('quantity', 1)
             price_info = format_price_data(result['data'])
-            
+
             print(f"{itemid:<12} {condition:<4} {quantity:<3} {price_info}")
-            
+
             avg_price = result['data'].get('avg_price')
             if avg_price:
                 try:
                     total_estimated_value += float(avg_price) * quantity
                 except (ValueError, TypeError):
                     pass
-        
+
         if total_estimated_value > 0:
             print(f"\nEstimated Total Collection Value: ${total_estimated_value:.2f}")
-    
+
     if failed:
         print(f"\nFAILED TO GET PRICES FOR:")
         for result in failed:
-            print(f"  {result['minifig']}: {result['error']}")
+            print(f"  {result['itemid']}: {result['error']}")
 
 
 def create_bricklink_upload_xml(results: List[Dict[str, Any]], markup_percent: float = 10.0) -> str:
@@ -345,12 +373,14 @@ def create_bricklink_upload_xml(results: List[Dict[str, Any]], markup_percent: f
         # CONDITION
         condition = result.get('condition', 'U')
         lines.append(f'        <CONDITION>{condition}</CONDITION>')
-        
-        # ITEMTYPE - M for minifigure
-        lines.append('        <ITEMTYPE>M</ITEMTYPE>')
-        
+
+        # ITEMTYPE - from result
+        api_type = result.get('item_type', 'MINIFIG')
+        xml_type = {v: k for k, v in ITEM_TYPE_MAP.items()}.get(api_type, 'M')
+        lines.append(f'        <ITEMTYPE>{xml_type}</ITEMTYPE>')
+
         # ITEMID
-        itemid = result['minifig']
+        itemid = result['itemid']
         lines.append(f'        <ITEMID>{itemid}</ITEMID>')
         
         lines.append('    </ITEM>')
@@ -376,16 +406,17 @@ def create_simplified_json(results: List[Dict[str, Any]]) -> List[Dict[str, Any]
         if result['success']:
             avg_price = result['data'].get('avg_price')
             entry = {
-                'minifig_number': result['minifig'],
+                'item_id': result['itemid'],
+                'item_type': result.get('item_type', 'MINIFIG'),
                 'amount': result.get('quantity', 1),
                 'average_price': float(avg_price) if avg_price else None,
                 'condition': result['condition']
             }
             simplified.append(entry)
         else:
-            # Include failed items but with null price
             entry = {
-                'minifig_number': result['minifig'],
+                'item_id': result['itemid'],
+                'item_type': result.get('item_type', 'MINIFIG'),
                 'amount': result.get('quantity', 1),
                 'average_price': None,
                 'condition': result.get('condition', 'U'),
@@ -418,15 +449,14 @@ def print_setup_instructions():
 def main():
     """Main function."""
     parser = argparse.ArgumentParser(
-        description='Get prices for minifigures from BrickLink XML inventory',
+        description='Get prices for items from BrickLink XML inventory (minifigures, parts, sets)',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='''
 Examples:
-  python bricklink_xml_manager.py --xml minifigures.xml
-  python bricklink_xml_manager.py --xml minifigures.xml --condition U
-  python bricklink_xml_manager.py --xml minifigures.xml --export prices
-  python bricklink_xml_manager.py --xml minifigures.xml --export prices --markup 15
-  python bricklink_xml_manager.py --xml minifigures.xml --debug
+  python main.py --xml Minifigures.xml
+  python main.py --xml Parts.xml
+  python main.py --xml Sets.xml
+  python main.py --xml Minifigures.xml --condition U --export prices --markup 15
         '''
     )
     
@@ -452,34 +482,38 @@ Examples:
         return
     
     if not args.xml:
-        if os.path.exists('Minifigures.xml'):
-            args.xml = 'Minifigures.xml'
-            print("No XML file specified, using 'Minifigures.xml'")
+        for default in ('Minifigures.xml', 'Parts.xml', 'Sets.xml'):
+            if os.path.exists(default):
+                args.xml = default
+                print(f"No XML file specified, using '{default}'")
+                break
         else:
-            print("Error: No XML file specified and 'Minifigures.xml' not found.")
-            print("Usage: python bricklink_xml_manager.py --xml your_file.xml")
+            print("Error: No XML file specified.")
+            print("Usage: python main.py --xml your_file.xml")
             return
-    
+
     print(f"Parsing XML inventory: {args.xml}")
-    minifigs = parse_xml_inventory(args.xml)
-    
-    if not minifigs:
-        print("No minifigures found in XML file!")
+    items = parse_xml_inventory(args.xml)
+
+    if not items:
+        print("No supported items found in XML file!")
         return
-    
-    print(f"Found {len(minifigs)} minifigure entries in XML")
-    
+
+    item_types_found = set(m['itemtype'] for m in items)
+    type_labels = ', '.join(ITEM_TYPE_LABELS.get(t, t) for t in sorted(item_types_found))
+    print(f"Found {len(items)} entries in XML ({type_labels})")
+
     if not args.prices_only:
-        unique_items = set(m['itemid'] for m in minifigs)
-        conditions = set(m['condition'] for m in minifigs)
-        total_quantity = sum(m['quantity'] for m in minifigs)
-        
-        print(f"  Unique minifigures: {len(unique_items)}")
+        unique_items = set(m['itemid'] for m in items)
+        conditions = set(m['condition'] for m in items)
+        total_quantity = sum(m['quantity'] for m in items)
+
+        print(f"  Unique items: {len(unique_items)}")
         print(f"  Total quantity: {total_quantity}")
         print(f"  Conditions: {', '.join(sorted(conditions))}")
-        
+
         if args.condition:
-            filtered_count = len([m for m in minifigs if m['condition'] == args.condition])
+            filtered_count = len([m for m in items if m['condition'] == args.condition])
             print(f"  Filtering for condition '{args.condition}': {filtered_count} items")
     
     try:
@@ -498,7 +532,7 @@ Examples:
         print("python bricklink_xml_manager.py --setup")
         return
     
-    results = get_prices_for_inventory(api, minifigs, args.condition, args.debug)
+    results = get_prices_for_inventory(api, items, args.condition, args.debug)
     
     if not results:
         print("No results to display!")
