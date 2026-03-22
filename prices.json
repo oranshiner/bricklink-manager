@@ -1,0 +1,6274 @@
+[
+  {
+    "item_id": "cas013",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.1958,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas049",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9841,
+    "condition": "U"
+  },
+  {
+    "item_id": "sp006",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.7848,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas133",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.4095,
+    "condition": "U"
+  },
+  {
+    "item_id": "soc010",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1.9589,
+    "condition": "U"
+  },
+  {
+    "item_id": "soc046",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.8568,
+    "condition": "N"
+  },
+  {
+    "item_id": "soc046",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.0406,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas252",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 10.2725,
+    "condition": "U"
+  },
+  {
+    "item_id": "exf007",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5082,
+    "condition": "U"
+  },
+  {
+    "item_id": "mm001",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1.3458,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas364",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 33.6438,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas365",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 10.8659,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas366",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.8856,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas368",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 8.7218,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas371",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.3598,
+    "condition": "U"
+  },
+  {
+    "item_id": "bat025",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 115.8765,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas418",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.8691,
+    "condition": "U"
+  },
+  {
+    "item_id": "cas426",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.4311,
+    "condition": "U"
+  },
+  {
+    "item_id": "col030",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7622,
+    "condition": "U"
+  },
+  {
+    "item_id": "pha005",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.4972,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0001",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 32.9512,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0002",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.3076,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0003",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.3712,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0004",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 13.9882,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0007",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.5751,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0010",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.3186,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0011",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6396,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0012",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 14.8139,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0013",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.734,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0014",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 102.679,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0015",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 51.7521,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0016",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 266.9067,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0009",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 75.9704,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0006",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 17.0536,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0017",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.3982,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0018",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 47.6314,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0020",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0393,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0021",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.158,
+    "condition": "U"
+  },
+  {
+    "item_id": "col067",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.3419,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0022",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.5189,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0023",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5522,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0024",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.7103,
+    "condition": "U"
+  },
+  {
+    "item_id": "ac012",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 27.108,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0026",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.8183,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0027",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.0982,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0010",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.4963,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0031",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.779,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0032",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 16.9331,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0033",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 4.161,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0034",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.091,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0035",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.0294,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0036",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.7572,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0038",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 36.9762,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0039",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.482,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0040",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 30.0524,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0041",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.543,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0042",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 12.0559,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0044",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 22.3241,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0045",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.217,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0047",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.4948,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0048",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 11.4344,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0049",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 71.9322,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0050",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.1464,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0051",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.5295,
+    "condition": "U"
+  },
+  {
+    "item_id": "bob037",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.197,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0367",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.2792,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0052",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.1593,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0053",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.197,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0033",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.077,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0387",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 218.5961,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0055",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 118.3272,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0056",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.1258,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0057",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 180.7239,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0057",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 124.5801,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0058",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 6.6426,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0059",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 24.1156,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0060",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 37.1214,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0061",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 379.1282,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0063",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.2328,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0062",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.01,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0064",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8715,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0065",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 87.6849,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0067",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 48.5342,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0409",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.2206,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0410",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.0469,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0068",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 13.9136,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0069",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 115.3935,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0070",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 31.0607,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt002",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.6328,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt003",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.4974,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt011",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.4236,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt012",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.2427,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt014",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.3161,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt015",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.2996,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0071",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.8398,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0072",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.0512,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0076",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 86.0333,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0075",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.1721,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0073",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 36.4472,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0077",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9059,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0078",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 15.9288,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0079",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 90.3515,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0080",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 23.528,
+    "condition": "U"
+  },
+  {
+    "item_id": "gen047",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1.8312,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0062",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.1038,
+    "condition": "U"
+  },
+  {
+    "item_id": "col168",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.0564,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0086",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.5739,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0522",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.0184,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0523",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.0422,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0083",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9872,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0087",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 19.5801,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0090",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6589,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0091",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0866,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0092",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.9057,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0093",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.1011,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0094",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 31.7364,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0095",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 34.4471,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0099",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 26.2823,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0101",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.9414,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0102",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.0369,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0104",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.8644,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0110",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.9872,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0111",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.9489,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0113",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.4692,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt028",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 12.5803,
+    "condition": "U"
+  },
+  {
+    "item_id": "sim007",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.8211,
+    "condition": "U"
+  },
+  {
+    "item_id": "sim016",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.5441,
+    "condition": "U"
+  },
+  {
+    "item_id": "uagt011",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 27.2624,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0120",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8921,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0127",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.6161,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0128",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.6961,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0100",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.4046,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0103",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 14.9332,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0104",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 48.7429,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0106",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 59.7724,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0132",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 50.27,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0133",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 79.4664,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0108",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1141.1887,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0109",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.1978,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0144",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1909,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0145",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 15.2365,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0147",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 28.5929,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0148",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.9523,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0150",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.7207,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0156",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.5935,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0160",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 24.5984,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0111",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.3836,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0112",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.8301,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0113",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.025,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0616",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 27.4478,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0115",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.647,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0116",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 60.1614,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0117",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2076,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0121",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 9.8734,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0125",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4594,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0124",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.8877,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0126",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.9312,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0127",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.2953,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0128",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.4184,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0129",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 52.1519,
+    "condition": "U"
+  },
+  {
+    "item_id": "uagt028",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 48.241,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0167",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 8.0305,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0132",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.4563,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0170",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.6855,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0173",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.7779,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0178",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 19.8997,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0186",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3745,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0134",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7065,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0135",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 19.8357,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0136",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1971,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0138",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1289,
+    "condition": "U"
+  },
+  {
+    "item_id": "sim041",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.465,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0194",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 25.6967,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0195",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.9799,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0140",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.7192,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0144",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2889,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0146",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8782,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0147",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.9788,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0149",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1432,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0152",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 30.3154,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0153",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 17.0387,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0154",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 190.3533,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0155",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2565,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0156",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8269,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0158",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 29.7577,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0159",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.7097,
+    "condition": "U"
+  },
+  {
+    "item_id": "col225",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7874,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0160",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 53.8377,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0163",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 34.3607,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0177",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 8.1196,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0185",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.5873,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0218",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.4557,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0230",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 25.7259,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex017",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.2512,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex005",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.4179,
+    "condition": "U"
+  },
+  {
+    "item_id": "col240",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.4414,
+    "condition": "U"
+  },
+  {
+    "item_id": "col238",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.3629,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0231",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.25,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0188",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.8125,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex034",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8756,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0189",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 43.7694,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0190",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.8471,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0191",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 6.4758,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0236",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.0679,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0243",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.59,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0246",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.3267,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0249",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5557,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0259",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.1956,
+    "condition": "U"
+  },
+  {
+    "item_id": "ang012",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8073,
+    "condition": "U"
+  },
+  {
+    "item_id": "ang013",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.8076,
+    "condition": "U"
+  },
+  {
+    "item_id": "ang014",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.3051,
+    "condition": "U"
+  },
+  {
+    "item_id": "ang015",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2488,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0261",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.8805,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0194",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.7757,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0195",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 33.9701,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0196",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1.9414,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0265",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.3472,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0198",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 3.6663,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0200",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.1465,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0201",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 24.3857,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0204",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 27.1458,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis015",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.5505,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis013",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8737,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0206",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8362,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0209",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.9352,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0210",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 23.8488,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0212",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.5193,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0213",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.8684,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0199a",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7849,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0267",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.3596,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0268",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.2338,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0270",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 48.4639,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0273",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 17.6064,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0275",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 18.8464,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0276",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 46.8851,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0278",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 46.997,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0279",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.2975,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0283",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.5466,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0284",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.4359,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0287",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 19.9692,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0217",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.8685,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0222",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2941,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0224",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 31.3006,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0226",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 53.8544,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0233",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.4404,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0235",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.9012,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0237",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 22.5779,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0238",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8928,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0241",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.9661,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0242",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 22.7661,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0243",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.4881,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0248",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.2565,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex047",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.4419,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex048",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.5392,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex050",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.0372,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex056",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.1712,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0254",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 18.4639,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0262",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 52.9002,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0263",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.8667,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0260",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.7086,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0258",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 30.068,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0302",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 24.1845,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0265",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 41.5714,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0266",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.3324,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0267",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.2156,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0268",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7873,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0270",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.232,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0306",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8211,
+    "condition": "U"
+  },
+  {
+    "item_id": "moa003",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 18.8046,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0271",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9255,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0315",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 5.2162,
+    "condition": "U"
+  },
+  {
+    "item_id": "sw0816",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 17.959,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0319",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.2544,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0321",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 98.6646,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0322",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.0938,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0329",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.152,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0327",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 49.4108,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm04",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9861,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm05",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1671,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm06",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0184,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm07",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2218,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm10",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8565,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm14",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.3858,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm17",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5329,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm19",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1148,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0330",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1128,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0333",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.9758,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0334",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 8.7489,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0335",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.599,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0336",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7143,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0274",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.4977,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0275",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.313,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0276",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2826,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex067",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.7453,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex070",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1597,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex071",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0129,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex072",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5852,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0281",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.5889,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0282",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 19.0459,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0283",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 19.4044,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0285",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.7282,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0286",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 19.2031,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0278",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 29.029,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0277",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 17.601,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0279",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 47.9395,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0355",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.5834,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0357",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.524,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0361",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1357,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0362",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.855,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0363",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.1239,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0364",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0647,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0365",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.5098,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0288",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 23.1448,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0289",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.8673,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0293",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.7915,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0294",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.103,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0295",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6457,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0291",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 140.1403,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0292",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 150.3277,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0217a",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.1778,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0368",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 17.1122,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0371",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 26.9115,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0372",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.4607,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0373",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 32.5754,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0374",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.086,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0366",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.5857,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0375",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.2599,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0382",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.5825,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0384",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.9737,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex087",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.6431,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0391",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 14.666,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0396",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 21.9742,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex095",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 73.1639,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex098",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 113.8143,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0404",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0657,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0412",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 22.06,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0413",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 44.7822,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0414",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 104.8006,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0420",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.4629,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0421",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2788,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0309",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.2482,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0310",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 7.3086,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlnm03",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8066,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlnm04",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4827,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlnm18",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5793,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0429",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.8298,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0430",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.461,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0431",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.6935,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0311",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.1321,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0312",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.3948,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0313",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7135,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0314",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6542,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0317",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8295,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0318",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.6372,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0320",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.4787,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0321",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.4059,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0322",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.0828,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0324",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7905,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0326",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0065,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0338",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7606,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0341",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1.9953,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0347",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.3808,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0349",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.1388,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0353",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3666,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0354",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.8267,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0356",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 1.954,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0358",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4614,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0360",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.2653,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0361",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.3347,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0363",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.4342,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0364",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 9.9204,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0368",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 32.6035,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0369",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.6984,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0371",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.0013,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0447",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 9.5905,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0379",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8345,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex126",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.6571,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm30",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.3761,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm38",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2687,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltlbm39",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9484,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0469",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 17.8254,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0456",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.3683,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0457",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.3177,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0460",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 9.9889,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0461",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 41.9249,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0462",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.7792,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0463",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.005,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0465",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 32.4535,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0383",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 62.5509,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0384",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.4975,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0385",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.8316,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0386",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.2809,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0473",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.7539,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0391",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5872,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0392",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7545,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0393",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.5051,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0397",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 20.324,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0398",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 12.7537,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0394",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8372,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0395",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2644,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0400",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 19.0706,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0402",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 87.4083,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0390",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6974,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0403",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.1856,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0404",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.2128,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0405",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6337,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0406",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3052,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0407",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.4756,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0476",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9315,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0487",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 22.1588,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0412",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 10.4919,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0414",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.0737,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0416",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.9333,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0494",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.0094,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0495",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.3126,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0417",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 93.5529,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0512",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7791,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0500",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 4.4713,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0421",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.612,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0422",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.5881,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0425",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.2532,
+    "condition": "U"
+  },
+  {
+    "item_id": "nex142",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 14.0324,
+    "condition": "U"
+  },
+  {
+    "item_id": "col315",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.5793,
+    "condition": "U"
+  },
+  {
+    "item_id": "col326",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.8708,
+    "condition": "U"
+  },
+  {
+    "item_id": "jw017",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7461,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0518",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.4236,
+    "condition": "U"
+  },
+  {
+    "item_id": "hp158",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7215,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0450",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 10.1388,
+    "condition": "U"
+  },
+  {
+    "item_id": "hp162",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 21.439,
+    "condition": "U"
+  },
+  {
+    "item_id": "colhp19",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8346,
+    "condition": "U"
+  },
+  {
+    "item_id": "colhp18",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.325,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0456",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 40.4065,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0458",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.6142,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0459",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.8396,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0460",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.0732,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0462",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.671,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0463",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.2721,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0464",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2633,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0465",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4219,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0466",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.4328,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0468",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.7372,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0469",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2463,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0470",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0135,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0527",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 28.8287,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0528",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.5078,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0529",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.6548,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0472",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8607,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0473",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7021,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0474",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.1506,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0475",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.6043,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0476",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 9.0466,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0477",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 9.9008,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0478",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.4281,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0481",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 12.4874,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0482",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.2133,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0489",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.4385,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0488",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9472,
+    "condition": "U"
+  },
+  {
+    "item_id": "ow001",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.3318,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0538",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6193,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0540",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.0056,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0545",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6081,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0555",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4925,
+    "condition": "U"
+  },
+  {
+    "item_id": "tlm119",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.3355,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0490",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8232,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0491",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.8824,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0492",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 1.9771,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0493",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.8616,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0494",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7596,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0495",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 2.793,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0497",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.2857,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0498",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.27,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0499",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 4.6038,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0500",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.8909,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0501",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 7.6781,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0502",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6815,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0504",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0542,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0505",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.2019,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0506",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 17.9952,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0508",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.7717,
+    "condition": "U"
+  },
+  {
+    "item_id": "tlm153",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2517,
+    "condition": "U"
+  },
+  {
+    "item_id": "tlm156",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.4695,
+    "condition": "U"
+  },
+  {
+    "item_id": "tlm164",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.2328,
+    "condition": "U"
+  },
+  {
+    "item_id": "tlm166",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.436,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0512",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 114.7048,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0513",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1.8135,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0515",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8411,
+    "condition": "U"
+  },
+  {
+    "item_id": "tnt054",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0896,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0560",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.9623,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0561",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5433,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0563",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 6.3712,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0569",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.1558,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0574",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.7543,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0577",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.3637,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0578",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 11.9096,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0580",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.4853,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0581",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.709,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0582",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.9559,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0583",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9975,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis035",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.7613,
+    "condition": "U"
+  },
+  {
+    "item_id": "toy022",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.2681,
+    "condition": "U"
+  },
+  {
+    "item_id": "st005",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 55.1752,
+    "condition": "U"
+  },
+  {
+    "item_id": "st008",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 143.7745,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0590",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.657,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0593",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3334,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0517",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.8277,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0518",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.873,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0519",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.8017,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0521",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 104.7661,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0522",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 16.4694,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0523",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.1207,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0524",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.464,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0529",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 3.9878,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0537",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.5858,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0544",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 22.2455,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0536",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6027,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0535",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.4888,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0533",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.0422,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0540",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.2341,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0541",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 18.3377,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0539",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.3862,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0531",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.337,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0532",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.9624,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0530",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6829,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0538",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4037,
+    "condition": "U"
+  },
+  {
+    "item_id": "hp152a",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.2991,
+    "condition": "U"
+  },
+  {
+    "item_id": "ow017",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 50.4765,
+    "condition": "U"
+  },
+  {
+    "item_id": "colsh03",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8868,
+    "condition": "U"
+  },
+  {
+    "item_id": "colsh04",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.4083,
+    "condition": "U"
+  },
+  {
+    "item_id": "colsh12",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5571,
+    "condition": "U"
+  },
+  {
+    "item_id": "colsh13",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.0733,
+    "condition": "U"
+  },
+  {
+    "item_id": "colsh15",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.522,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0558",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.2208,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0559",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8642,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0560",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2004,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0561",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 73.9408,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0562",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.4325,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0563",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.5649,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0564",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.8006,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0565",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.9617,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0566",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.1662,
+    "condition": "U"
+  },
+  {
+    "item_id": "twt004",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9689,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0568",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.4451,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0569",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 26.2942,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0571",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.267,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0572",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 9.8954,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0573",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7825,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0574",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7915,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0576",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2539,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0580",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2975,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0578",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5708,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0579",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.6233,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0582",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 1.7574,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0584",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.4984,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0586",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 26.1328,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0587",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 8.058,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0588",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.4059,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0593",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.4022,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0634",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.0672,
+    "condition": "U"
+  },
+  {
+    "item_id": "mnn001",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.68,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0597",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8517,
+    "condition": "U"
+  },
+  {
+    "item_id": "twt012",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.8427,
+    "condition": "U"
+  },
+  {
+    "item_id": "twt015",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.0684,
+    "condition": "U"
+  },
+  {
+    "item_id": "twt016",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6918,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0599",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.8473,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0600",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 4.6609,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0601",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.4877,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0602",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.9024,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0603",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8167,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0604",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.1382,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0605",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.6995,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0606",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.084,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0607",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.3022,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0608",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.3448,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0609",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.9919,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0610",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.1365,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0647",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2736,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0648",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3461,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0613",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7145,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0615",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7244,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0616",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0197,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0617",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.4416,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0618",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.1462,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0652",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.4962,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0619",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2072,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0620",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4725,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0621",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.2185,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0624",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.0475,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0664",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.5413,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0625",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.2251,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0665",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.5196,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0626",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.915,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0627",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7811,
+    "condition": "U"
+  },
+  {
+    "item_id": "sp130",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.7883,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0628",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7987,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0574a",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.3852,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0631",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.3462,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0633",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7977,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0634",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 13.3936,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0636",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8459,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0637",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.0174,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0638",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9293,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0640",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 4.685,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0681",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.6027,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0643",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7649,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0644",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7742,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0646",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7588,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0647",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.6777,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0648",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7116,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0649",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2293,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0684",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.4038,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0650",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 11.8984,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0576a",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.6136,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0651",
+    "item_type": "MINIFIG",
+    "amount": 4,
+    "average_price": 15.2677,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0653",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.938,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0654",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.3897,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0658",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.7628,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0670",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1789,
+    "condition": "U"
+  },
+  {
+    "item_id": "sp131s",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.0521,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0691",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 25.0049,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0693",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.4538,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0682",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.5685,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0683",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.9374,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0687",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.9427,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0679",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.2768,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0678",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 38.0151,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0680",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0378,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0677",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 8.5591,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0684",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.8159,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0686",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.7429,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0685",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.8342,
+    "condition": "U"
+  },
+  {
+    "item_id": "vid006",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7014,
+    "condition": "U"
+  },
+  {
+    "item_id": "vid002",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7911,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0688",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2788,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0695",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.1355,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0692",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0836,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0709",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.711,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis049",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.3064,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0695",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.3904,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0696",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7973,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0697",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 9.8091,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0700",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.1935,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0701",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5427,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0702",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.3533,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0703",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.6544,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0705",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 31.9456,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0730",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.058,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0735",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7983,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0118a",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 43.4078,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0706",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0372,
+    "condition": "U"
+  },
+  {
+    "item_id": "mnn011",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.6083,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0707",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 20.4972,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0710",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 44.8607,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0711",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1386,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0768",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2465,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0767",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7831,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0770",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.0079,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0765",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.3678,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0766",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1482,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0778",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.2273,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0783",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.0481,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0715",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.2243,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0798",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.5369,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0717",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.4187,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0718",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.5301,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0719",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6299,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0800",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8385,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0720",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.3733,
+    "condition": "N"
+  },
+  {
+    "item_id": "sh0803",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7879,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0721",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8979,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0722",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0542,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0724",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2078,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0726",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1273,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0802",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.708,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0727",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5337,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0729",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8268,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0731",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.5236,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0741",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8681,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0741",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8474,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0742",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.5059,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0735",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.0312,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0743",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.1099,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0744",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9918,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0745",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.2457,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0747",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.8053,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0748",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 8.1692,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0749",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.4143,
+    "condition": "U"
+  },
+  {
+    "item_id": "sc097",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.1969,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis069",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.092,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0805",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.5625,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0811",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8288,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0813",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.6326,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0815",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2841,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltm12",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1601,
+    "condition": "U"
+  },
+  {
+    "item_id": "coltm03",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.464,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0753",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3432,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0766",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 25.4791,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0760",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 4.2057,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0758",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.7387,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0772",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.7304,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0774",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 57.8951,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0754",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 3.2539,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0779",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.9928,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0777",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 35.7136,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0780",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.0731,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0775",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 10.5103,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0776",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 17.2151,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0765",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.9851,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0759",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.4274,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0771",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 30.2241,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0773",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 16.7514,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0770",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 10.0475,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0763",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.3803,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0764",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.5035,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0762",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 15.7274,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0768",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 9.092,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0769",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.361,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0767",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.8554,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0757",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.3195,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0761",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.3057,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0755",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.8591,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0756",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.6631,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0781",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 8.5475,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0782",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.7927,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0784",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.8669,
+    "condition": "U"
+  },
+  {
+    "item_id": "avt007",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.6396,
+    "condition": "U"
+  },
+  {
+    "item_id": "sc103",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.599,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0785",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8315,
+    "condition": "U"
+  },
+  {
+    "item_id": "col402",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4262,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0838",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.0121,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0787",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4517,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0840",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5604,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0841",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9827,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0852",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6279,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0858",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9498,
+    "condition": "U"
+  },
+  {
+    "item_id": "col417",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7269,
+    "condition": "U"
+  },
+  {
+    "item_id": "col419",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.607,
+    "condition": "U"
+  },
+  {
+    "item_id": "col420",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.4712,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0790",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.9882,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0784a",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.5886,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0796",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.4423,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0798",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5104,
+    "condition": "U"
+  },
+  {
+    "item_id": "cty1540",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.8604,
+    "condition": "U"
+  },
+  {
+    "item_id": "sc104",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.7321,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0860",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.4124,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis096",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9621,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis097",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2337,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis099",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.8902,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis100",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3333,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis102",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.257,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis103",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.1988,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis108",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.4187,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis088",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.2422,
+    "condition": "U"
+  },
+  {
+    "item_id": "dis085",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.8289,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0869",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.1716,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0804",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.652,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0873",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.6611,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0879",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.6569,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0878",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7056,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0876",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.9701,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0877",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 29.4105,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0811",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.5021,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0814",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.1849,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0819",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.2336,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0813",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.3327,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0822",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.6629,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0820",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.4589,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0823",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 9.142,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0812",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.6083,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0821",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7038,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0817",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.1707,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0818",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.6634,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0827",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.2499,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0837",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.7149,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0810",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0384,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0809",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.2021,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0808",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.0498,
+    "condition": "U"
+  },
+  {
+    "item_id": "son001",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.8995,
+    "condition": "U"
+  },
+  {
+    "item_id": "son002",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.6285,
+    "condition": "U"
+  },
+  {
+    "item_id": "drm027",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.2487,
+    "condition": "U"
+  },
+  {
+    "item_id": "colmar24",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 7.7997,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0904",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3297,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0910",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.5821,
+    "condition": "U"
+  },
+  {
+    "item_id": "col425",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.0683,
+    "condition": "U"
+  },
+  {
+    "item_id": "col427",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.0229,
+    "condition": "U"
+  },
+  {
+    "item_id": "col429",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0604,
+    "condition": "U"
+  },
+  {
+    "item_id": "col431",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.1056,
+    "condition": "U"
+  },
+  {
+    "item_id": "col434",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.5815,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0862",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.4932,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0853",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.504,
+    "condition": "U"
+  },
+  {
+    "item_id": "son012",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.6956,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0856",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 6.1303,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0861",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.6356,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0857",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1692,
+    "condition": "U"
+  },
+  {
+    "item_id": "son016",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 13.1105,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0852",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.5719,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0851",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.2909,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0854",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.6416,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0863",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.3181,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0865",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.6954,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0937",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 20.5039,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0940",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 12.0014,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0943",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2054,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0945",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9478,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0879",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.647,
+    "condition": "U"
+  },
+  {
+    "item_id": "son015",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.8587,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0869",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.3713,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0948",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.3806,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0870",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.0501,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0872",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7998,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0873",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.2316,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0877",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9215,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0885",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.2867,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0880",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8232,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0881",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.4851,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0882",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.1954,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0883",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.3335,
+    "condition": "U"
+  },
+  {
+    "item_id": "col439",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.7254,
+    "condition": "U"
+  },
+  {
+    "item_id": "col443",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.8601,
+    "condition": "U"
+  },
+  {
+    "item_id": "col446",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 4.2521,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0891",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.2909,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0890",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.7526,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0907",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 0.0,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0895",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.3998,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0901",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 5.1994,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0904",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 3.9459,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0905",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.7795,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0900",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 34.6877,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0897",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.2307,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0903",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.9672,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0899",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.4786,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0912",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.52,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0916",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.8479,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0909",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3036,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0911",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 12.1523,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0915",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.9328,
+    "condition": "U"
+  },
+  {
+    "item_id": "son019",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.0807,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh0970",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.728,
+    "condition": "U"
+  },
+  {
+    "item_id": "ani010",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.4715,
+    "condition": "U"
+  },
+  {
+    "item_id": "drm051",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.9106,
+    "condition": "U"
+  },
+  {
+    "item_id": "coldnd02",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.339,
+    "condition": "U"
+  },
+  {
+    "item_id": "coldnd12",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.8797,
+    "condition": "U"
+  },
+  {
+    "item_id": "fort004",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.6338,
+    "condition": "U"
+  },
+  {
+    "item_id": "fort008",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.6961,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0918",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.6942,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0940",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 9.2242,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0940",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 7.1813,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0938",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 16.2565,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0921",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.4005,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0922",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 2.7847,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0923",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 2.9513,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0924",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.1426,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0919",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.3627,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0920",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.7586,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0925",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.5335,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0926",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.0199,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0929",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.7656,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0942",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.1639,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0937",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 12.1894,
+    "condition": "U"
+  },
+  {
+    "item_id": "drm068",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.9338,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0932",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.785,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0934",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 4.5218,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0939",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.47,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0946",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 3.1874,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh1033",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.6955,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh1034",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.4035,
+    "condition": "U"
+  },
+  {
+    "item_id": "drm077",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.1197,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0948",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.0551,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0959",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 8.8982,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0961",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.5675,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0974",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 0.0,
+    "condition": "U"
+  },
+  {
+    "item_id": "blu005",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.7531,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea226",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.098,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea233",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8078,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea238",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.5711,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea231",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0239,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea235",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.0224,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea227",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 13.6807,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea230",
+    "item_type": "MINIFIG",
+    "amount": 3,
+    "average_price": 13.7972,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea228",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.3685,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea237",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.8312,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea229",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.0699,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea232",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.0894,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea234",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.6154,
+    "condition": "N"
+  },
+  {
+    "item_id": "idea236",
+    "item_type": "MINIFIG",
+    "amount": 2,
+    "average_price": 14.3112,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo0970",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 10.8612,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0975",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 11.9543,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0979",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 13.5055,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0982",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 2.498,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0983",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 5.16,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0985",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 3.3271,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0986",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.4809,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo0989",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 6.8238,
+    "condition": "U"
+  },
+  {
+    "item_id": "sh1082",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 14.3702,
+    "condition": "U"
+  },
+  {
+    "item_id": "hol400",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 7.1872,
+    "condition": "N"
+  },
+  {
+    "item_id": "njo1009",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 8.6377,
+    "condition": "U"
+  },
+  {
+    "item_id": "njo1010",
+    "item_type": "MINIFIG",
+    "amount": 1,
+    "average_price": 9.7973,
+    "condition": "U"
+  }
+]

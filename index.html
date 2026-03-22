@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Minifigure Collection</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f0f2f5;
+      color: #1a1a1a;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #e3000b;
+      color: white;
+      padding: 24px 32px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+
+    header h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+
+    header .subtitle {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      margin-top: 2px;
+    }
+
+    .lego-dot {
+      width: 36px;
+      height: 36px;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 900;
+      color: #e3000b;
+      font-size: 0.7rem;
+      flex-shrink: 0;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 32px;
+      background: white;
+      border-bottom: 1px solid #e0e0e0;
+      flex-wrap: wrap;
+    }
+
+    .toolbar input[type="text"] {
+      padding: 8px 14px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      width: 220px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .toolbar input[type="text"]:focus { border-color: #e3000b; }
+
+    .filter-btn {
+      padding: 8px 14px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: white;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.15s;
+    }
+
+    .filter-btn:hover { border-color: #e3000b; color: #e3000b; }
+    .filter-btn.active { background: #e3000b; color: white; border-color: #e3000b; }
+
+    .stats {
+      margin-left: auto;
+      font-size: 0.85rem;
+      color: #666;
+    }
+
+    .stats strong { color: #1a1a1a; }
+
+    main {
+      padding: 28px 32px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      transition: transform 0.15s, box-shadow 0.15s;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    }
+
+    .card-image {
+      background: #f8f8f8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      height: 160px;
+    }
+
+    .card-image img {
+      max-height: 120px;
+      max-width: 120px;
+      object-fit: contain;
+    }
+
+    .card-image .no-image {
+      font-size: 2.5rem;
+      opacity: 0.3;
+    }
+
+    .card-body {
+      padding: 14px 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .card-id {
+      font-size: 0.75rem;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .card-price {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .card-price .currency {
+      font-size: 0.85rem;
+      font-weight: 400;
+      color: #666;
+      margin-right: 2px;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 2px;
+    }
+
+    .badge {
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 20px;
+      letter-spacing: 0.3px;
+    }
+
+    .badge-used { background: #fff3cd; color: #856404; }
+    .badge-new { background: #d1e7dd; color: #0a3622; }
+
+    .badge-qty {
+      background: #e9ecef;
+      color: #495057;
+    }
+
+    .card-footer {
+      padding: 10px 16px;
+      border-top: 1px solid #f0f0f0;
+    }
+
+    .card-footer a {
+      font-size: 0.8rem;
+      color: #e3000b;
+      text-decoration: none;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .card-footer a:hover { text-decoration: underline; }
+
+    .card-footer a::after {
+      content: "↗";
+      font-size: 0.75rem;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: #999;
+      grid-column: 1 / -1;
+    }
+
+    .empty-state p { margin-top: 8px; font-size: 0.9rem; }
+
+    #loading {
+      text-align: center;
+      padding: 80px;
+      color: #888;
+      font-size: 1rem;
+    }
+
+    #error-msg {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: 10px;
+      padding: 16px 20px;
+      color: #856404;
+      margin-bottom: 20px;
+      display: none;
+    }
+
+    .total-value {
+      background: white;
+      border-radius: 12px;
+      padding: 14px 20px;
+      margin-bottom: 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+      flex-wrap: wrap;
+    }
+
+    .total-value .val-item {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .total-value .val-label {
+      font-size: 0.75rem;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .total-value .val-number {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .divider {
+      width: 1px;
+      height: 36px;
+      background: #e0e0e0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="lego-dot">BL</div>
+  <div>
+    <h1>My Minifigure Collection</h1>
+    <div class="subtitle">BrickLink inventory · average used market prices</div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <input type="text" id="search" placeholder="Search by item ID…" oninput="render()" />
+  <button class="filter-btn active" data-condition="all" onclick="setCondition('all')">All</button>
+  <button class="filter-btn" data-condition="U" onclick="setCondition('U')">Used</button>
+  <button class="filter-btn" data-condition="N" onclick="setCondition('N')">New</button>
+  <div class="stats" id="stats"></div>
+</div>
+
+<main>
+  <div id="loading">Loading prices…</div>
+  <div id="error-msg"></div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<script>
+  let allData = [];
+  let activeCondition = 'all';
+
+  async function loadData() {
+    try {
+      const res = await fetch('prices.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const json = await res.json();
+      allData = json.filter(item => item.item_type === 'MINIFIG');
+      document.getElementById('loading').style.display = 'none';
+render();
+    } catch (e) {
+      document.getElementById('loading').style.display = 'none';
+      const err = document.getElementById('error-msg');
+      err.style.display = 'block';
+      err.textContent = `Could not load prices.json — make sure you're running a local server (python -m http.server) and the file exists. Error: ${e.message}`;
+    }
+  }
+
+  function setCondition(val) {
+    activeCondition = val;
+    document.querySelectorAll('.filter-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.condition === val);
+    });
+    render();
+  }
+
+  function render() {
+    const search = document.getElementById('search').value.trim().toLowerCase();
+
+    let items = allData;
+    if (activeCondition !== 'all') items = items.filter(i => i.condition === activeCondition);
+    if (search) items = items.filter(i => i.item_id.toLowerCase().includes(search));
+
+    const grid = document.getElementById('grid');
+    document.getElementById('stats').innerHTML = `Showing <strong>${items.length}</strong> of <strong>${allData.length}</strong>`;
+
+    if (!items.length) {
+      grid.innerHTML = `<div class="empty-state"><div style="font-size:2.5rem">🧱</div><p>No minifigures match your filter.</p></div>`;
+      return;
+    }
+
+    grid.innerHTML = items.map(item => {
+      const imgUrl = `https://img.bricklink.com/ItemImage/MN/0/${item.item_id}.png`;
+      const blUrl = `https://www.bricklink.com/v2/catalog/catalogitem.page?M=${item.item_id}`;
+      const condLabel = item.condition === 'U' ? 'Used' : 'New';
+      const condClass = item.condition === 'U' ? 'badge-used' : 'badge-new';
+      const qty = item.amount > 1 ? `<span class="badge badge-qty">×${item.amount}</span>` : '';
+
+      return `
+        <div class="card">
+          <div class="card-image">
+            <img
+              src="${imgUrl}"
+              alt="${item.item_id}"
+              onerror="this.style.display='none';this.nextElementSibling.style.display='block'"
+            />
+            <div class="no-image" style="display:none">🧩</div>
+          </div>
+          <div class="card-body">
+            <div class="card-id">${item.item_id}</div>
+            <div class="card-price">
+              <span class="currency">$</span>${item.average_price.toFixed(2)}
+            </div>
+            <div class="card-meta">
+              <span class="badge ${condClass}">${condLabel}</span>
+              ${qty}
+            </div>
+          </div>
+          <div class="card-footer">
+            <a href="${blUrl}" target="_blank" rel="noopener">View on BrickLink</a>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  loadData();
+</script>
+</body>
+</html>
