@@ -283,7 +283,7 @@
   <div class="lego-dot">BL</div>
   <div>
     <h1>My Minifigure Collection</h1>
-    <div class="subtitle">BrickLink inventory · average used market prices</div>
+    <div class="subtitle">BrickLink inventory · average used market prices · ILS (1 USD = ₪3.12)</div>
   </div>
 </header>
 
@@ -364,7 +364,7 @@ render();
           <div class="card-body">
             <div class="card-id">${item.item_id}</div>
             <div class="card-price">
-              <span class="currency">$</span>${item.average_price.toFixed(2)}
+              <span class="currency">₪</span>${(item.average_price * 3.12).toFixed(2)}
             </div>
             <div class="card-meta">
               <span class="badge ${condClass}">${condLabel}</span>
