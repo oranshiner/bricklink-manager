@@ -332,13 +332,12 @@ render();
   function render() {
     const search = document.getElementById('search').value.trim().toLowerCase();
 
-    let items = allData.filter(i => i.amount > 1);
+    let items = allData.slice();
     if (activeCondition !== 'all') items = items.filter(i => i.condition === activeCondition);
     if (search) items = items.filter(i => i.item_id.toLowerCase().includes(search));
 
     const grid = document.getElementById('grid');
-    const duplicates = allData.filter(i => i.amount > 1);
-    document.getElementById('stats').innerHTML = `Showing <strong>${items.length}</strong> of <strong>${duplicates.length}</strong>`;
+    document.getElementById('stats').innerHTML = `Showing <strong>${items.length}</strong> of <strong>${allData.length}</strong>`;
 
     if (!items.length) {
       grid.innerHTML = `<div class="empty-state"><div style="font-size:2.5rem">🧱</div><p>No minifigures match your filter.</p></div>`;
